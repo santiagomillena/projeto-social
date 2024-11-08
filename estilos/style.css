@@ -9,7 +9,6 @@ body {
     height: 96vh;
     width: 100vw;
     background-color: black;
-    overflow: clip;
 }
 
 body {
@@ -21,7 +20,6 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 section#telefone {
